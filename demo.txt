@@ -1,0 +1,28 @@
+chan2: bass polyphonic (notes)
+
+chan 1
+------
+space drone
+
+24: gain
+
+25: attack
+26: res
+
+27: density
+28: pan
+
+29: damp
+30: decay
+
+31: rnd 1
+32: rnd 2
+
+33: dynamic
+34: pitch
+
+35: fundamental
+36: offset
+
+37: speed
+38: amt
