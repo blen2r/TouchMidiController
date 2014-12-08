@@ -10,3 +10,6 @@ Multitouch application used to send MIDI messages to external applications
 5- run app from command line "kivy instrument.py -w --size=1200x600"<br/>
 <br/>
 Note: I used "Loopbe" to create a MIDI loop on my computer
+
+<br/>
+<a href="http://youtu.be/uOH7pe7Ez6w">Demo</a>
